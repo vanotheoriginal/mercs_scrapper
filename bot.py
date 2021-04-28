@@ -1,7 +1,7 @@
 import telebot
 from main import __update
 
-token = '1792970220:AAHlSAUs8YUugE_xdUrhjzFIE9ZIX8scVYA'
+token = 'token'
 
 app = telebot.TeleBot(token)
 
